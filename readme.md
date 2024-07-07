@@ -6,7 +6,6 @@ The following repostories can be viewed and cloned from [morrisoncm](https://git
 * [Setting Up Your Environment]()
 
 #### SpringBoot
-* [spring-boot-react-crud](https://github.com/morrisoncm/spring-boot-react-crud/blob/main/README.md)
 * [template-springboot](https://github.com/morrisoncm/template-springboot/blob/main/README.md)
 
 #### Messaging
@@ -26,4 +25,5 @@ The following repostories can be viewed and cloned from [morrisoncm](https://git
 * [react-template](https://github.com/morrisoncm/react-template/blob/main/README.md)
 * [react-git-portfolio](https://github.com/morrisoncm/react-git-portfolio/blob/main/README.md)
 * [react-project-dashboard](https://github.com/morrisoncm/react-project-dashboard/blob/main/README.md)
+* [spring-boot-react-crud](https://github.com/morrisoncm/spring-boot-react-crud/blob/main/README.md)
 
