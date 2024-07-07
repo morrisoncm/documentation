@@ -1,9 +1,8 @@
-### QuickStart Documentation
+### QuickStart Guide
+* Before proceeding, complete [Setting Up Your Environment]()
+
 ### Repositories
 The following repostories can be viewed and cloned from [morrisoncm](https://github.com/morrisoncm?tab=repositories).
-
-#### Environment
-* [Setting Up Your Environment]()
 
 #### SpringBoot
 * [template-springboot](https://github.com/morrisoncm/template-springboot/blob/main/README.md)
