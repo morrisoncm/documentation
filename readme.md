@@ -1,5 +1,5 @@
 ### QuickStart Guide
-* Welcome to the documentation, it is a quick guide to get you up and running. It covers the following topics. Before beginning please complete [Setting Up Your Mac](https://github.com/morrisoncm/documentation/wiki/Setting-Up-Your-Mac) or [Setting Up Your Windows](https://github.com/morrisoncm/documentation/wiki/Setting-Up-Your-Windows). The [repositories](https://github.com/morrisoncm/documentation/wiki#repositories) below can be viewed and cloned from [morrisoncm](https://github.com/morrisoncm?tab=repositories).
+It is a quick guide to get you up and running. It covers the following topics. Before beginning please complete [Setting Up Your Mac](https://github.com/morrisoncm/documentation/wiki/Setting-Up-Your-Mac) or [Setting Up Your Windows](https://github.com/morrisoncm/documentation/wiki/Setting-Up-Your-Windows). The [repositories](https://github.com/morrisoncm/documentation/wiki#repositories) below can be viewed and cloned from [morrisoncm](https://github.com/morrisoncm?tab=repositories).
 
 ### Repositories
 The following repostories can be viewed and cloned from [morrisoncm](https://github.com/morrisoncm?tab=repositories).
